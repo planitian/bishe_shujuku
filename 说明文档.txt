@@ -1,0 +1,2 @@
+数据库是MySQL， 在数据库名称叫做contentone 
+数据库登陆密码是root   1234
